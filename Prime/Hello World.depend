@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1450711737 source:c:\users\jing wen\desktop\batch\c++ workspace\hello world\main.cpp
+	<iostream>
+	<conio.h>
+
+1450711902 source:c:\users\jing wen\desktop\batch\c++ workspace\prime\main.cpp
+	<iostream>
+
